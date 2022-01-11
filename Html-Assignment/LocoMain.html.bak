@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Loco</title>
+	</head>
+	<body>
+		<div>
+			<h1>Loco Main Page</h1>
+			<ul>
+				<li><a href="https://en.wikipedia.org/wiki/SJ_F_(steam_locomotive)">Link</a></li>
+				<li><a href="https://www.youtube.com/watch?v=w59s1QDl3pQ">Link</a></li>
+				<li><a href="https://www.youtube.com/watch?v=UYYzhjUzCOU">Link</a></li>
+			</ul>
+			<a href="LocoLogin.html">Login</a>
+		</div>
+		<div>
+			<h2>Diffrent types of locomotives</h2>
+			<p>Some facts about diffrent locomotive types</p>
+			<article>
+				<h2>Steam Locomotives</h2>
+				<p>Something about steam locomotives</p>
+				<p>More stuff about steam locomotives</p>
+			</article>
+			<article>
+				<h2>Diesel Locomotives</h2>
+				<p>Something about steam locomotives</p>
+				<p>More stuff about steam locomotives</p>
+				<img src="826716f2b37a1ae2041feda680a90097.jpg" width="300px">
+			</article>
+		</div>
+		<div>
+			<h2>Nations</h2>
+			<ul>
+				<li>
+					<h3>Nation 1</h3>
+					<ol>
+						<li>City 1.2M</li>
+						<li>City 5.7M</li>
+						<li>City 24K</li>
+					</ol>
+				</li>
+				<li>
+					<h3>Nation 2</h3>
+					<ol>
+						<li>City 12K</li>
+						<li>City 67K</li>
+						<li>City 900K</li>
+					</ol>
+				</li>
+				<li>
+					<h3>Nation 3</h3>
+					<ol>
+						<li>City 2.6M</li>
+						<li>City 1M</li>
+						<li>City 672K</li>
+					</ol>
+				</li>
+			</ul>
+		</div>
+		<div>
+			<footer>
+				<p>&copy; Samuel Schön</p>
+			</footer>
+		</div>
+	</body>
+</html>

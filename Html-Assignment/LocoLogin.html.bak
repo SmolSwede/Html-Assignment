@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Loco/Login</title>
+	</head>
+	<body>
+		<div>
+			<h1>Loco Login Page</h1>
+			<ul>
+				<li><a href="https://en.wikipedia.org/wiki/SJ_F_(steam_locomotive)">Link</a></li>
+				<li><a href="https://www.youtube.com/watch?v=w59s1QDl3pQ">Link</a></li>
+				<li><a href="https://www.youtube.com/watch?v=UYYzhjUzCOU">Link</a></li>
+			</ul>
+			<a href="LocoIndex.html">Index</a>
+		</div>
+		<div>
+			<h2>Login</h2>
+			<form>
+				<input type="text">
+				<input type="text">
+				<input type="reset">
+				<input type="submit" value="Sign in">
+			</from>
+		</div>
+		<div>
+			<footer>
+				<p>&copy; Samuel Schön</p>
+			</footer>
+		</div>
+	</body>
+</html>
