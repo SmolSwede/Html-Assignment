@@ -39,36 +39,36 @@
 					</div>
 				</div>
 				<div class="columns sideContent">
-					<div class="gridContainer row">
+					<div class="row">
 						<div class="card grid">
-							<h2>Nations</h2>
-							<ul>
-								<li>
-									<h3>Nation 1</h3>
-									<ol>
-										<li>City 1.2M</li>
-										<li>City 5.7M</li>
-										<li>City 24K</li>
-									</ol>
-								</li>
-								<li>
-									<h3>Nation 2</h3>
-									<ol>
-										<li>City 12K</li>
-										<li>City 67K</li>
-										<li>City 900K</li>
-									</ol>
-								</li>
-								<li>
-									<h3>Nation 3</h3>
-									<ol>
-										<li>City 2.6M</li>
-										<li>City 1M</li>
-										<li>City 672K</li>
-									</ol>
-								</li>
-							</ul>
-						</div>
+						<h2>Nations</h2>
+						<ul>
+							<li>
+								<h3>Nation 1</h3>
+								<ol>
+									<li>City 1.2M</li>
+									<li>City 5.7M</li>
+									<li>City 24K</li>
+								</ol>
+							</li>
+							<li>
+								<h3>Nation 2</h3>
+								<ol>
+									<li>City 12K</li>
+									<li>City 67K</li>
+									<li>City 900K</li>
+								</ol>
+							</li>
+							<li>
+								<h3>Nation 3</h3>
+								<ol>
+									<li>City 2.6M</li>
+									<li>City 1M</li>
+									<li>City 672K</li>
+								</ol>
+							</li>
+						</ul>
+					</div>
 					</div>
 				</div>
 			</div>

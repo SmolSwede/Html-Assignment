@@ -3,27 +3,30 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Loco/Login</title>
+		<link rel="stylesheet" href="LocoStyle.css">
 	</head>
 	<body>
-		<div>
-			<h1>Loco Login Page</h1>
+		<div class="navbar">
+			<h1>Loco</h1>
 			<ul>
 				<li><a href="https://en.wikipedia.org/wiki/SJ_F_(steam_locomotive)">Link</a></li>
 				<li><a href="https://www.youtube.com/watch?v=w59s1QDl3pQ">Link</a></li>
 				<li><a href="https://www.youtube.com/watch?v=UYYzhjUzCOU">Link</a></li>
 			</ul>
-			<a href="LocoIndex.html">Index</a>
+			<a class="switchPage" href="LocoIndex.html">Index</a>
 		</div>
-		<div>
-			<h2>Login</h2>
-			<form>
-				<input type="text">
-				<input type="text">
-				<input type="reset" value="Reset">
-				<input type="submit" value="Sign in">
-			</from>
+		<div class="row">
+			<div class="gridContainer">
+				<h2 class="loginGrid card uppercase roundedBorder">Login</h2>
+				<form class="loginGrid2 card roundedBorder">
+					<input type="text">
+					<input type="text">
+					<input class="button1 roundedBorder" type="reset" value="Reset">
+					<input class="button2 roundedBorder" type="submit" value="Sign in">
+				</from>
+			</div>
 		</div>
-		<div>
+		<div class="footer">
 			<footer>
 				<p>&copy; Samuel Schön</p>
 			</footer>
